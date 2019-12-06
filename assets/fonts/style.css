@@ -1,4 +1,8 @@
 @font-face {
+   font-family: 'Malina';
+   src: url('Malina/font.ttf');
+}
+@font-face {
    font-family: 'museo500-regular';
    src: url('museo500-regular/font.otf');
 }
